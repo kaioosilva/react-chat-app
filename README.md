@@ -47,6 +47,16 @@ $ yarn
 $ yarn start
 ```
 
+# User's credentials
+
+username: user1
+password: 123123
+
+username: user2
+password: 123123
+
+````
+
 ## 🤔 How to contribute
 
 **Make a fork of this repository**
@@ -56,7 +66,7 @@ $ yarn start
 # If you don't have the GitHub CLI, use the web site to do that.
 
 $ gh repo fork kaioosilva/react-chat-app
-```
+````
 
 **Follow the steps below**
 
