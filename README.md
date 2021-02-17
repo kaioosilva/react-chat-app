@@ -49,11 +49,13 @@ $ yarn start
 
 **User's credentials**
 
+```bash
 username: user1
 password: 123123
 
 username: user2
 password: 123123
+```
 
 ## 🤔 How to contribute
 
