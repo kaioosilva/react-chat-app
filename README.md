@@ -1,70 +1,81 @@
-# Getting Started with Create React App
+<h3 align="center">
+  React Chat App
+</h3>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">Realtime Chat Application</p>
+<p align="center">Deployed <a href="https://twitter-clone-kaio.netlify.app/">here</a> </p>
 
-## Available Scripts
+<p align="center">
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
-In the project directory, you can run:
+</br>
 
-### `yarn start`
+<p align="center">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <img alt="Layout" src="https://camo.githubusercontent.com/1b3dc8939ac229215d8a2878202158c407ec1fcabad13ca416d8becc5ce35c44/68747470733a2f2f692e6962622e636f2f76446878384d642f57686174732d4170702d496d6167652d323032312d30312d32362d61742d30322d30312d34332e6a7067">
+  
+</p>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 🚀 Technologies
 
-### `yarn test`
+Technologies that I used to develop this web client
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [ReactJS](https://reactjs.org/)
+- [ChatEngine](https://chatengine.io/)
+- [Axios](https://github.com/axios/axios)
+- [Prettier](https://prettier.io/)
+- [EditorConfig](https://editorconfig.org/)
 
-### `yarn build`
+## 💻 Getting started
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**Clone the project and access the folder**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+$ git clone https://github.com/kaioosilva/react-chat-app.git && cd react-chat-app
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**Follow the steps below**
 
-### `yarn eject`
+```bash
+# Install the dependencies
+$ yarn
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# Start the client
+$ yarn start
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🤔 How to contribute
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+**Make a fork of this repository**
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+```bash
+# Fork using GitHub official command line
+# If you don't have the GitHub CLI, use the web site to do that.
 
-## Learn More
+$ gh repo fork kaioosilva/react-chat-app
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**Follow the steps below**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+# Clone your fork
+$ git clone your-fork-url && cd react-chat-app
 
-### Code Splitting
+# Create a branch with your feature
+$ git checkout -b my-feature
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+# Make the commit with your changes
+$ git commit -m 'feat: My new feature'
 
-### Analyzing the Bundle Size
+# Send the code to your remote branch
+$ git push origin my-feature
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+After your pull request is merged, you can delete your branch
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Made with 💜 by Kaio Silva 👋 [See my linkedin](https://www.linkedin.com/in/kaio-oliveira-silva-54275b57/)
